@@ -5,7 +5,7 @@ import Actors from './Components/Actors/Actors'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Search from './Components/Search/Search'
 import Signup from './Components/Signup/Signup'
-import BooksLibrary from './Components/BooksLibrary/Bookslibrary'
+import BooksLibrary from './Components/BooksLibrary/BooksLibrary'
 import BookDetail from './Components/BookDetail/BookDetail'
 
 
