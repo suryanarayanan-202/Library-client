@@ -1,0 +1,75 @@
+.Mform{
+
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+.form{
+    
+    border: 1px solid black;
+    box-shadow: 0 0 10px rgb(14, 14, 207);
+    width: 20rem;
+    height: 25rem;
+    padding-top: 5rem;
+    border-radius: 3rem;
+}
+
+.first{
+
+padding-left: 6rem;
+}
+
+
+.A{
+
+
+    padding-left: 5rem;
+    border: 1px solid black;
+    height: 2rem;
+    padding-top: 1rem;
+    background-color: rgb(195, 234, 234);
+
+}
+
+.B{
+
+
+    padding-left: 5rem;
+    border: 1px solid black;
+    height: 2rem;
+    padding-top: 1rem;
+    background-color: rgb(195, 234, 234);
+    
+}
+
+.C{
+
+
+    padding-left: 5rem;
+    border: 1px solid black;
+    height: 2rem;
+    padding-top: 1rem;
+    background-color: rgb(195, 234, 234);
+
+}
+
+.btn{
+
+    text-align: center;
+    padding-top: 2rem;
+    
+}
+
+.btn button{
+    
+    
+    border-style: none;
+    width: 5rem;
+    height: 2rem;
+    border-radius: 3rem;
+    cursor: pointer;
+}
